@@ -1,0 +1,12 @@
+git init
+npm install express axios telegraf dotenv nodemon
+npm init - y
+Alterar package.json 
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+Explicar o dotenv
+Explicar o nodemon
+Abrir a página do Telegraf 
+Explicar o 'hello world'
